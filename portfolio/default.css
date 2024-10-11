@@ -82,6 +82,10 @@ nav a{
     transition: 0.3s ease;
     border-bottom: 3px solid transparent;
 }
+a{
+    color:#67b934;
+    font-size: 1.5rem;
+}
 
 a:hover{
     color: #89d15a;
