@@ -9,7 +9,7 @@
 }
 
 html{
-    font-size: 1rem;
+    font-size: 1.25rem;
 }
 
 body{
@@ -63,7 +63,7 @@ header{
 }
 
 .home .home-content h1{
-   font-size: 6rem;
+   font-size: 8rem;
    font-weight: 700;
    line-height: 1.3;
    
